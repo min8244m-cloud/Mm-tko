@@ -1,0 +1,8 @@
+{
+  "name": "MM TTS FREE",
+  "description": "100% local, offline-capable Burmese (Myanmar) Text-to-Speech Progressive Web App powered by ONNX Runtime Web (WASM) and YeeNyunn/nara-mini-v1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
